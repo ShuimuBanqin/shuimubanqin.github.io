@@ -306,7 +306,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: [] # these tags will be displayed on the front page of your blog
-display_categories: ["Notes", "Thoughts", "Daily"] # these categories will be displayed on the front page of your blog
+display_categories: ["Notes", "Thoughts", "Daily", "Guides"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
