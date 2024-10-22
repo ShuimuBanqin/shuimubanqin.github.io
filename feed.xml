@@ -1,777 +1,139 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml"/><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-10-22T07:18:17+00:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</title><link href="https://alshedivat.github.io/al-folio/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/" rel="alternate" type="text/html" title="Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra"/><published>2024-05-14T00:00:00+00:00</published><updated>2024-05-14T00:00:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://alshedivat.github.io/al-folio/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/tabs</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://alshedivat.github.io/al-folio/feed.xml" rel="self" type="application/atom+xml"/><link href="https://alshedivat.github.io/al-folio/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-10-22T10:46:26+00:00</updated><id>https://alshedivat.github.io/al-folio/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">NeRF Neural Radiance Field in 3D Vision, Introduction and Review</title><link href="https://alshedivat.github.io/al-folio/blog/2024/Restabilizing-Diffusion-Models-with-Predictive-Noise-Fusion-Strategy-for-Image-Super-Resolution/" rel="alternate" type="text/html" title="NeRF Neural Radiance Field in 3D Vision, Introduction and Review"/><published>2024-10-22T00:17:43+00:00</published><updated>2024-10-22T00:17:43+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/Restabilizing%20Diffusion%20Models%20with%20Predictive%20Noise%20Fusion%20Strategy%20for%20Image%20Super-Resolution</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/Restabilizing-Diffusion-Models-with-Predictive-Noise-Fusion-Strategy-for-Image-Super-Resolution/"><![CDATA[<h2 id="abstract">Abstract</h2> <p>Neural Radiance Field (NeRF) has recently become a significant development in the field of Computer Vision, allowing for implicit, neural network-based scene representation and novel view synthesis.</p> <h2 id="theory">Theory</h2> <p>The radiance field describes color and volume density for every point and for every viewing direction in the scene. This is written as</p>]]></content><author><name></name></author><category term="Notes"/><category term="NeRF"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">Anaconda常用命令</title><link href="https://alshedivat.github.io/al-folio/blog/2024/Anaconda-conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" rel="alternate" type="text/html" title="Anaconda常用命令"/><published>2024-07-23T00:17:43+00:00</published><updated>2024-07-23T00:17:43+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/Anaconda%20conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/Anaconda-conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"><![CDATA[<h2 id="参考资料">参考资料</h2> <p><a href="https://blog.csdn.net/chenxy_bwave/article/details/119996001">【精选】Anaconda conda常用命令：从入门到精通_conda命令_笨牛慢耕的博客-CSDN博客</a></p> <h2 id="管理conda自身">管理conda自身</h2> <h3 id="查看conda版本">查看conda版本</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nt">--version</span>
+</code></pre></div></div> <h3 id="查看conda的环境配置">查看conda的<a href="https://so.csdn.net/so/search?q=环境配置&amp;spm=1001.2101.3001.7020">环境配置</a></h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda config <span class="nt">--show</span>
+</code></pre></div></div> <h3 id="设置镜像">设置镜像</h3> <p>conda有时候安装软件会非常慢。设置国内镜像的话可以使安装更快捷一些。设置方法如下所示：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#设置清华镜像</span>
+conda config <span class="nt">--add</span> channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config <span class="nt">--add</span> channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config <span class="nt">--add</span> channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+conda config <span class="nt">--add</span> channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
+<span class="c">#设置bioconda</span>
+conda config <span class="nt">--add</span> channels bioconda
+conda config <span class="nt">--add</span> channels conda-forge
+<span class="c">#设置搜索时显示通道地址</span>
+conda config <span class="nt">--set</span> show_channel_urls <span class="nb">yes</span>
+</code></pre></div></div> <h4 id="临时使用">临时使用</h4> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">install</span> <span class="nt">-c</span> https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ example_package
+</code></pre></div></div> <h3 id="更新conda">更新conda</h3> <p>推荐总是更新conda</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda update conda
+</code></pre></div></div> <h3 id="更新anaconda整体">更新Anaconda整体</h3> <p>将整个Anaconda都更新到确保稳定性和兼容性的最新版本</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda update Anaconda
+</code></pre></div></div> <h3 id="查询某个命令的帮助">查询某个命令的帮助</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create <span class="nt">--help</span>
+</code></pre></div></div> <h2 id="管理环境">管理环境</h2> <p>conda允许你创建相互隔离的独立环境，这些环境被称之为虚拟环境（Virtual Environment），这些环境各自包含属于自己的文件、包以及他们的依存关系，并且不会相互干扰。</p> <p>Anaconda有一个缺省的名为base的环境。但是不建议把程序放在base环境中，应该创建不同的虚拟环境分别管理不同的开发项目。这个涉及到一个根本的问题：为什么我们需要虚拟环境呢？举一个简单的例子，想象一下你有多个项目要开发，每个项目中都有一些包要依赖于某个共同的包，但是各自的所需要的版本不一致，有一些需要低版本的，有些需要高版本的。然后你就陷入了众口难调的困境。为不同的项目创建虚拟环境就可以把不同项目隔离开来，各自使用自己所需要的软件环境。</p> <h3 id="创建虚拟环境">创建虚拟环境</h3> <p>使用conda创建虚拟环境的命令格式为:</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create <span class="nt">-n</span> env_name <span class="nv">python</span><span class="o">=</span>3.8
+</code></pre></div></div> <p>这表示创建python版本为3.8、名字为env_name的虚拟环境。</p> <p>创建后，env_name文件可以在Anaconda安装目录envs文件下找到。在不指定python版本时，自动创建基于最新python版本的虚拟环境.</p> <p>创建虚拟环境的同时安装必要的包(但是并不建议这样做，简化每一条命令的任务在绝大多数时候都是明智的，一个例外是需要反复执行的脚本)</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create <span class="nt">-n</span> env_name numpy matplotlib <span class="nv">python</span><span class="o">=</span>3.8
+</code></pre></div></div> <h3 id="查看有哪些虚拟环境">查看有哪些虚拟环境</h3> <p>以下三条命令都可以。注意最后一个是”–”，而不是“-”.</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">env </span>list
+conda info <span class="nt">-e</span>
+conda info <span class="nt">--envs</span>
+</code></pre></div></div> <h3 id="激活虚拟环境">激活虚拟环境</h3> <p>使用如下命令即可激活创建的虚拟环境。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda activate env_name
+</code></pre></div></div> <h3 id="退出虚拟环境">退出虚拟环境</h3> <p>使用如下命令即可退出当前工作的虚拟环境。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda activate
+conda deactivate
+</code></pre></div></div> <h3 id="删除虚拟环境">删除虚拟环境</h3> <p>执行以下命令可以将该指定虚拟环境及其中所安装的包都删除。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda remove <span class="nt">--name</span> env_name <span class="nt">--all</span>
+</code></pre></div></div> <p>如果只删除虚拟环境中的某个或者某些包则是：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda remove <span class="nt">--name</span> env_name  package_name
+</code></pre></div></div> <h3 id="克隆虚拟环境">克隆虚拟环境</h3> <p>根据已有环境名复制生成新的环境 假设已有环境名为A，需要生成的环境名为B：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create <span class="nt">-n</span> B <span class="nt">--clone</span> A
+</code></pre></div></div> <p>根据已有环境路径复制生成新的环境 假设已有环境路径为D:\A，需要生成的新的环境名为B：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda create <span class="nt">-n</span> B <span class="nt">--clone</span> D:<span class="se">\A</span>
+</code></pre></div></div> <h3 id="导出环境">导出环境</h3> <p>很多的软件依赖特定的环境，我们可以导出环境，这样方便自己在需要时恢复环境，也可以提供给别人用于创建完全相同的环境。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#获得环境中的所有配置</span>
+conda <span class="nb">env export</span> <span class="nt">--name</span> myenv <span class="o">&gt;</span> myenv.yml
+<span class="c">#重新还原环境</span>
+conda <span class="nb">env </span>create <span class="nt">-f</span>  myenv.yml
+</code></pre></div></div> <h2 id="包package的管理">包(Package)的管理</h2> <h3 id="查询包的安装情况">查询包的安装情况</h3> <p>查询看当前环境中安装了哪些包</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda list
+</code></pre></div></div> <p>查询当前Anaconda repository中是否有你想要安装的包</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda search package_name
+</code></pre></div></div> <h2 id="查询是否有安装某个包">查询是否有安装某个包</h2> <p>用conda list后跟package名来查找某个指定的包是否已安装，而且支持*通配模糊查找。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda list pkgname        
+conda list pkgname<span class="k">*</span>
+</code></pre></div></div> <h3 id="包的安装和更新">包的安装和更新</h3> <p>在当前（虚拟）环境中安装一个包：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">install </span>package_name
+</code></pre></div></div> <p>也可以以以下命令安装某个特定版本的包(以下例为安装0.20.3版本的numpy)：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">install </span><span class="nv">numpy</span><span class="o">=</span>0.20.3
+</code></pre></div></div> <p>安装包的时候可以指定从哪个channel进行安装，比如说，以下命令表示不是从缺省通道，而是从conda_forge安装某个包。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">install </span>pkg_name <span class="nt">-c</span> conda_forge
+</code></pre></div></div> <h3 id="conda卸载包">conda卸载包</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda uninstall package_name
+</code></pre></div></div> <p>这样会将依赖于这个包的所有其它包也同时卸载。</p> <p>如果不想删除依赖其当前要删除的包的其他包(不建议)：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda uninstall package_name <span class="nt">--force</span>
+</code></pre></div></div> <h3 id="清理anaconda缓存">清理anaconda缓存</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda clean <span class="nt">-p</span>      <span class="c"># 删除没有用的包 --packages</span>
+conda clean <span class="nt">-t</span>      <span class="c"># 删除tar打包 --tarballs</span>
+conda clean <span class="nt">-y</span> <span class="nt">-all</span> <span class="c"># 删除所有的安装包及cache(索引缓存、锁定文件、未使用过的包和tar包)</span>
+</code></pre></div></div> <p>关于清除命令的更详细的说明，可以执行以下命令进行查询：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda clean <span class="nt">-h</span>
+</code></pre></div></div> <h2 id="python版本的管理">Python版本的管理</h2> <p>除了上面在创建虚环境时可以指定python版本外，Anaconda基环境的python版本也可以根据需要进行更改。</p> <h3 id="将版本变更到指定版本">将版本变更到指定版本</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda <span class="nb">install </span><span class="nv">python</span><span class="o">=</span>3.5
+</code></pre></div></div> <p>更新完后可以用以下命令查看变更是否符合预期。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">--version</span>
+</code></pre></div></div> <h3 id="将python版本更新到最新版本">将python版本更新到最新版本</h3> <p>如果你想将python版本更新到最新版本，可以使用以下命令：</p> <div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">conda</span> <span class="k">update</span> <span class="n">python</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="Guides"/><category term="Conda"/><category term="Python"/><summary type="html"><![CDATA[参考资料 【精选】Anaconda conda常用命令：从入门到精通_conda命令_笨牛慢耕的博客-CSDN博客 管理conda自身 查看conda版本 conda --version 查看conda的环境配置 conda config --show 设置镜像 conda有时候安装软件会非常慢。设置国内镜像的话可以使安装更快捷一些。设置方法如下所示： #设置清华镜像 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/ #设置bioconda conda config --add channels bioconda conda config --add channels conda-forge #设置搜索时显示通道地址 conda config --set show_channel_urls yes 临时使用 conda install -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/ example_package 更新conda 推荐总是更新conda conda update conda 更新Anaconda整体 将整个Anaconda都更新到确保稳定性和兼容性的最新版本 conda update Anaconda 查询某个命令的帮助 conda create --help 管理环境 conda允许你创建相互隔离的独立环境，这些环境被称之为虚拟环境（Virtual Environment），这些环境各自包含属于自己的文件、包以及他们的依存关系，并且不会相互干扰。 Anaconda有一个缺省的名为base的环境。但是不建议把程序放在base环境中，应该创建不同的虚拟环境分别管理不同的开发项目。这个涉及到一个根本的问题：为什么我们需要虚拟环境呢？举一个简单的例子，想象一下你有多个项目要开发，每个项目中都有一些包要依赖于某个共同的包，但是各自的所需要的版本不一致，有一些需要低版本的，有些需要高版本的。然后你就陷入了众口难调的困境。为不同的项目创建虚拟环境就可以把不同项目隔离开来，各自使用自己所需要的软件环境。 创建虚拟环境 使用conda创建虚拟环境的命令格式为: conda create -n env_name python=3.8 这表示创建python版本为3.8、名字为env_name的虚拟环境。 创建后，env_name文件可以在Anaconda安装目录envs文件下找到。在不指定python版本时，自动创建基于最新python版本的虚拟环境. 创建虚拟环境的同时安装必要的包(但是并不建议这样做，简化每一条命令的任务在绝大多数时候都是明智的，一个例外是需要反复执行的脚本) conda create -n env_name numpy matplotlib python=3.8 查看有哪些虚拟环境 以下三条命令都可以。注意最后一个是”–”，而不是“-”. conda env list conda info -e conda info --envs 激活虚拟环境 使用如下命令即可激活创建的虚拟环境。 conda activate env_name 退出虚拟环境 使用如下命令即可退出当前工作的虚拟环境。 conda activate conda deactivate 删除虚拟环境 执行以下命令可以将该指定虚拟环境及其中所安装的包都删除。 conda remove --name env_name --all 如果只删除虚拟环境中的某个或者某些包则是： conda remove --name env_name package_name 克隆虚拟环境 根据已有环境名复制生成新的环境 假设已有环境名为A，需要生成的环境名为B： conda create -n B --clone A 根据已有环境路径复制生成新的环境 假设已有环境路径为D:\A，需要生成的新的环境名为B： conda create -n B --clone D:\A 导出环境 很多的软件依赖特定的环境，我们可以导出环境，这样方便自己在需要时恢复环境，也可以提供给别人用于创建完全相同的环境。 #获得环境中的所有配置 conda env export --name myenv &gt; myenv.yml #重新还原环境 conda env create -f myenv.yml 包(Package)的管理 查询包的安装情况 查询看当前环境中安装了哪些包 conda list 查询当前Anaconda repository中是否有你想要安装的包 conda search package_name 查询是否有安装某个包 用conda list后跟package名来查找某个指定的包是否已安装，而且支持*通配模糊查找。 conda list pkgname conda list pkgname* 包的安装和更新 在当前（虚拟）环境中安装一个包： conda install package_name 也可以以以下命令安装某个特定版本的包(以下例为安装0.20.3版本的numpy)： conda install numpy=0.20.3 安装包的时候可以指定从哪个channel进行安装，比如说，以下命令表示不是从缺省通道，而是从conda_forge安装某个包。 conda install pkg_name -c conda_forge conda卸载包 conda uninstall package_name 这样会将依赖于这个包的所有其它包也同时卸载。 如果不想删除依赖其当前要删除的包的其他包(不建议)： conda uninstall package_name --force 清理anaconda缓存 conda clean -p # 删除没有用的包 --packages conda clean -t # 删除tar打包 --tarballs conda clean -y -all # 删除所有的安装包及cache(索引缓存、锁定文件、未使用过的包和tar包) 关于清除命令的更详细的说明，可以执行以下命令进行查询： conda clean -h Python版本的管理 除了上面在创建虚环境时可以指定python版本外，Anaconda基环境的python版本也可以根据需要进行更改。 将版本变更到指定版本 conda install python=3.5 更新完后可以用以下命令查看变更是否符合预期。 python --version 将python版本更新到最新版本 如果你想将python版本更新到最新版本，可以使用以下命令： conda update python]]></summary></entry><entry><title type="html">Jupytor相关</title><link href="https://alshedivat.github.io/al-folio/blog/2024/Jupytor%E7%9B%B8%E5%85%B3/" rel="alternate" type="text/html" title="Jupytor相关"/><published>2024-07-23T00:17:43+00:00</published><updated>2024-07-23T00:17:43+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/Jupytor%E7%9B%B8%E5%85%B3</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/Jupytor%E7%9B%B8%E5%85%B3/"><![CDATA[<h2 id="一什么是jupyter">一、什么是jupyter</h2> <h3 id="1简介">1、简介：</h3> <p>jupyter notebook是一种 Web 应用，能让用户将说明文本、数学方程、代码和可视化内容全部组合到一个易于共享的文档中。它可以直接在代码旁写出叙述性文档，而不是另外编写单独的文档。也就是它可以能将代码、文档等这一切集中到一处，让用户一目了然。</p> <p>Jupyter这个名字是它要服务的三种语言的缩写：Julia，PYThon和R，这个名字与“木星（jupiter）”谐音。Jupyter Notebook 已迅速成为数据分析，机器学习的必备工具。因为它可以让数据分析师集中精力向用户解释整个分析过程。我们可以通过Jupyter notebook写出了我们的学习笔记。但是jupyter远远不止支持上面的三种语言，目前能够使用的语言他基本上都能支持，包括C、C++、C#，java、Go等等。</p> <p>jupyter notebook和我们前面所讲的两篇系列文章ipython其实都是来自同一个产品族，它的前身叫做ipython notebook，至于后面为什么更名这不得而知，这也就是为什么很多文章总是默认将ipython就说成是ipython notebook的原因了。但是既然已经更名了，我们还是区别对待ipython和jupyter notebook。</p> <h3 id="2安装与打开">2、安装与打开</h3> <p>在安装anaconda的时候会一起打包安装，也可通过pip或者是conda安装。</p> <p>直接在anaconda的菜单里面打开jupyter notebook，也可以通过命令行，输入jupyter notebook或者是jupyter-notebook。jupyter notebook会在浏览器中中打开，其为一种Web应用，在浏览器的地址栏会显示如下：http://localhost:8888/tree当一次打开多个jupyter notebook时，端口号会依次递增8889，8890依次递增。</p> <h3 id="3jupyter的作用">3、jupyter的作用</h3> <p>文学编程 ( Literate programming )，这是由 Donald Knuth 提出的编程方法。传统的结构化编程，人们需要按计算机的逻辑顺序来编写代码；与此相反，文学编程则可以让人们按照自己的思维逻辑来开发程序。</p> <p>简单来说，文学编程的读者不是机器，而是人。我们从写出让机器读懂的代码，过渡到向人们解说如何让机器实现我们的想法，其中除了代码，更多的是叙述性的文字、图表等内容。Jupyter Notebook 就是不可或缺的一款集编程和写作于一体的效率工具。</p> <p>Jupyter Notebook 的优点：</p> <ol> <li> <p>极其适合数据分析，想象一下如下混乱的场景：你在终端中运行程序，可视化结果却显示在另一个窗口中，包含函数和类的脚本存在其他文档中，更可恶的是你还需另外写一份说明文档来解释程序如何执行以及结果如何。此时 Jupyter Notebook 从天而降，将所有内容收归一处，你是不是顿觉灵台清明，思路更加清晰了呢？</p> </li> <li>支持多语言，也许你习惯使用 R 语言来做数据分析，或者是想用学术界常用的 MATLAB 和 Mathematica，这些都不成问题，只要安装相对应的核（kernel）即可。</li> <li>分享便捷，支持以网页的形式分享，GitHub 中天然支持 Notebook 展示，也可以通过 nbviewer 分享文档。也支持导出成 HTML、Markdown 、PDF 等多种格式的文档。</li> <li>远程运行，在任何地点都可以通过网络链接远程服务器来实现运算</li> <li>交互式展现，不仅可以输出图片、视频、数学公式，甚至可以呈现一些互动的可视化内容，比如可以缩放的地图或者是可以旋转的三维模型。这就需要交互式插件（Interactive widgets）来支持。</li> </ol> <p>常见的一些 jupyter 高级应用如：数学公式编辑、幻灯片制作、魔术关键字。</p> <h2 id="二jupyter-notebook简单使用">二、jupyter notebook简单使用</h2> <h3 id="1常用命令">1、常用命令</h3> <h4 id="1查找帮助">(1)查找帮助</h4> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter-notebook <span class="nt">--help</span>
+jupyter-notebook <span class="nt">--help-all</span>	<span class="c">#会显示更详细的信息</span>
+jupyter-notebook <span class="nt">-h</span>
+</code></pre></div></div> <h4 id="2常用子命令">(2)常用子命令</h4> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter-notebook list	<span class="c">#列出当前打开的jupyter notebook</span>
+jupyter-notebook stop 8888	<span class="c">#关闭指定端口号8888的jupyter</span>
+jupyter-notebook password 123 <span class="c">#给某一个打开的jupyter notebook设置密码</span>
+</code></pre></div></div> <h4 id="3常用选项">(3)常用选项</h4> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter notebook <span class="nt">--help-all</span>
+<span class="c">#查看jupyter命令的详细信息</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-1</span><span class="w"> </span><span class="cp">%}</span>
+<span class="nt">--generate-config</span>
+<span class="c">#产生默认的配置文件</span>
 
-Content 1
+<span class="nt">--no-browser</span>
+<span class="c">#启动jupyter notebook之后不打开浏览器</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
+<span class="nt">--pylab</span>
+<span class="c">#在jupyter notebook里面集成，也可以在jupyter notebook里面使用,%pylab或者是%matplotlib魔术命令</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-2</span><span class="w"> </span><span class="cp">%}</span>
+<span class="nt">--config</span><span class="o">=</span>&lt;Unicode&gt;
+<span class="c">#制定一个完全路径的配置文件名称，关于配置文件后面会详解，默认是default，即系统指定的默认配置文件</span>
 
-Content 2
+<span class="nt">--ip</span><span class="o">=</span>&lt;Unicode&gt;
+<span class="c">#默认是: 'localhost'，从前面的现实中也可以看出来，表示的是notebook服务器会监听的IP地址，我们也可以手动指定</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
+<span class="nt">--port</span><span class="o">=</span>&lt;Int&gt;
+<span class="c">#指定jupyter notebook打开浏览器的端口号，默认是: 8888，也可以手动输入</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
-</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="7fb17219-e14d-4aaa-bf92-bd6e0f96fbe7" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="7fb17219-e14d-4aaa-bf92-bd6e0f96fbe7" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
-</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
-</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="36ea4153-36c1-4cd2-8e70-7d156025aa27" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="36ea4153-36c1-4cd2-8e70-7d156025aa27" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
-  <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
-  <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
-</code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="493a02ef-b5f6-4dfe-836d-8934ca5f88d5" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="493a02ef-b5f6-4dfe-836d-8934ca5f88d5" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://alshedivat.github.io/al-folio/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/typograms</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">+----+
-|    |---&gt; My first diagram!
-+----+</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-typograms">+----+
-|    |---&gt; My first diagram!
-+----+
-</code></pre> <p>Another example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>which generates:</p> <pre><code class="language-typograms">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-</code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://alshedivat.github.io/al-folio/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/post-citation</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code class="language-plaintext highlighter-rouge">citation</code> key in the front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://alshedivat.github.io/al-folio/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/pseudocode</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code class="language-plaintext highlighter-rouge">$</code>, you should use <code class="language-plaintext highlighter-rouge">$$</code> instead. Also, note that the <code class="language-plaintext highlighter-rouge">pseudocode</code> key in the front matter is set to <code class="language-plaintext highlighter-rouge">true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">pseudocode
-</span><span class="sb">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Generates:</p> <pre><code class="language-pseudocode">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry><entry><title type="html">a post with code diff</title><link href="https://alshedivat.github.io/al-folio/blog/2024/code-diff/" rel="alternate" type="text/html" title="a post with code diff"/><published>2024-01-27T19:22:00+00:00</published><updated>2024-01-27T19:22:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/code-diff</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/code-diff/"><![CDATA[<p>You can display diff code by using the regular markdown syntax:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">diff
-</span><span class="gh">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
-</span><span class="gd">--- a/sample.js
-</span><span class="gi">+++ b/sample.js
-</span><span class="p">@@ -1 +1 @@</span>
-<span class="gd">-console.log("Hello World!")
-</span><span class="gi">+console.log("Hello from Diff2Html!")</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gh">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
-</span><span class="gd">--- a/sample.js
-</span><span class="gi">+++ b/sample.js
-</span><span class="p">@@ -1 +1 @@</span>
-<span class="gd">-console.log("Hello World!")
-</span><span class="gi">+console.log("Hello from Diff2Html!")
-</span></code></pre></div></div> <p>But this is difficult to read, specially if you have a large diff. You can use <a href="https://diff2html.xyz/">diff2html</a> to display a more readable version of the diff. For this, just use <code class="language-plaintext highlighter-rouge">diff2html</code> instead of <code class="language-plaintext highlighter-rouge">diff</code> for the code block language:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">diff2html
-</span><span class="sb">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
---- a/sample.js
-+++ b/sample.js
-@@ -1 +1 @@
--console.log("Hello World!")
-+console.log("Hello from Diff2Html!")</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>If we use a longer example, for example <a href="https://github.com/rtfpessoa/diff2html/commit/c2c253d3e3f8b8b267f551e659f72b44ca2ac927">this commit from diff2html</a>, it will generate the following output:</p> <pre><code class="language-diff2html">From 2aaae31cc2a37bfff83430c2c914b140bee59b6a Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sun, 9 Oct 2016 16:41:54 +0100
-Subject: [PATCH 1/2] Initial template override support
+<span class="nt">--notebook-dir</span><span class="o">=</span>&lt;Unicode&gt;
+<span class="c">#默认使用默认的目录，表示的是notebook和kernels的目录</span>
 
----
- scripts/hulk.js                    |  4 ++--
- src/diff2html.js                   |  3 +--
- src/file-list-printer.js           | 11 ++++++++---
- src/hoganjs-utils.js               | 29 +++++++++++++++++------------
- src/html-printer.js                |  6 ++++++
- src/line-by-line-printer.js        |  6 +++++-
- src/side-by-side-printer.js        |  6 +++++-
- test/file-list-printer-tests.js    |  2 +-
- test/hogan-cache-tests.js          | 18 +++++++++++++++---
- test/line-by-line-tests.js         |  3 +--
- test/side-by-side-printer-tests.js |  3 +--
- 11 files changed, 62 insertions(+), 29 deletions(-)
+<span class="nt">--browser</span><span class="o">=</span>&lt;Unicode&gt;
+<span class="c">#还可以指定某一个特定的浏览器打开，默认使用系统默认的浏览器打开，是可以自己选定浏览器的</span>
+</code></pre></div></div> <h3 id="2简单使用">2、简单使用</h3> <h4 id="1查看配置文件">(1)查看配置文件</h4> <p>使用以下命令</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter-notebook <span class="nt">--generate-config</span>
+</code></pre></div></div> <p>返回配置文件地址，根据配置文件地址打开配置文件</p> <p>可以修改默认目录，具体方法为搜索 ‘directory’ 将 c.NotebookApp.notebook_dir = ‘’ 后面的值修改为相应地址，应注意前面的#号需移除。</p> <h2 id="3运行环境配置">3、运行环境配置</h2> <h4 id="方法一">方法一</h4> <p>在每一个python的运行环境里面都使用conda install notebook 安装一个与之对应的notebook，然后我在做开发的时候，需要用什么环境，我就在每一个 Python 环境中的 script 文件夹下面打开对应的哪个 jupyter notebook 。这样没问题，但这样不是很高级，需要安装多次，且每次使用 jupyter notebook 的时都只能使用一个环境，局限性很大。</p> <h4 id="方法二">方法二</h4> <ol> <li> <p>方法1，首先在anaconda prompt里面激活我们需要的环境，然后执行下面一个命令：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">(</span>base<span class="o">)</span> C:<span class="se">\U</span>sers<span class="se">\l</span>enovo&gt;activate python27
+   
+<span class="o">(</span>python27<span class="o">)</span> C:<span class="se">\U</span>sers<span class="se">\l</span>enovo&gt;python <span class="nt">-m</span> ipykernel <span class="nb">install</span> <span class="nt">--name</span> python27
+</code></pre></div> </div> </li> <li> <p>方法2，在我创建完我需要的运行环境之后，然后只需要在base运行环境中执行一个命令即可。</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">(</span>base<span class="o">)</span> C:<span class="se">\U</span>sers<span class="se">\l</span>enovo&gt;conda <span class="nb">install </span>nb_conda
+</code></pre></div> </div> </li> </ol>]]></content><author><name></name></author><category term="Guides"/><category term="Jupytor"/><category term="Python"/><summary type="html"><![CDATA[一些Jupytor入门]]></summary></entry><entry><title type="html">Linux常用命令</title><link href="https://alshedivat.github.io/al-folio/blog/2024/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" rel="alternate" type="text/html" title="Linux常用命令"/><published>2024-07-23T00:17:43+00:00</published><updated>2024-07-23T00:17:43+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"><![CDATA[<h2 id="查询进程cpu使用情况">查询进程CPU使用情况:</h2> <p><code class="language-plaintext highlighter-rouge">top</code>：实时显示系统的CPU使用情况和进程信息。</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>启动 top:
+    在终端中，只需键入 top 并按 Enter 键即可启动 top。
+界面分区:
+    top 界面分为多个部分，其中包括：
+    顶部行：显示系统总体信息，如当前时间、系统运行时间、登录用户数、负载平均值和CPU、内存等的使用情况。
+    进程列表：按 CPU 使用率降序排列的进程列表，显示了每个进程的 PID、用户、CPU使用率、内存使用率、进程状态等。
+    底部命令行：用于在 top 中执行一些操作，如更改排序方式、筛选进程等。
+控制和交互:
+    使用键盘上的箭头键可以在进程列表中上下滚动。
+    q 键用于退出 top。
+    Space 键用于刷新 top 的显示。
+    k 键用于终止选定的进程。
+    f 键用于显示字段列表，允许您选择要显示的列。
+    u 键用于筛选进程，可以输入用户名以查看特定用户的进程。
+    1 键用于切换到全局 CPU 使用率视图，显示每个CPU核心的使用情况。
+排序进程:
+    P：按CPU使用率排序。
+    M：按内存使用率排序。
+    T：按运行时间排序。
+    N：按PID排序。
+显示字段:
+    按 f 键后，您可以选择要在进程列表中显示的字段。这允许您自定义输出，以满足您的需求。
+退出 top:
+	按 q 键可退出 top。
 
-diff --git a/scripts/hulk.js b/scripts/hulk.js
-index 5a793c18..a4b1a4d5 100755
---- a/scripts/hulk.js
-+++ b/scripts/hulk.js
-@@ -173,11 +173,11 @@ function namespace(name) {
- // write a template foreach file that matches template extension
- templates = extractFiles(options.argv.remain)
-   .map(function(file) {
--    var openedFile = fs.readFileSync(file, 'utf-8');
-+    var openedFile = fs.readFileSync(file, 'utf-8').trim();
-     var name;
-     if (!openedFile) return;
-     name = namespace(path.basename(file).replace(/\..*$/, ''));
--    openedFile = removeByteOrderMark(openedFile.trim());
-+    openedFile = removeByteOrderMark(openedFile);
-     openedFile = wrap(file, name, openedFile);
-     if (!options.outputdir) return openedFile;
-     fs.writeFileSync(path.join(options.outputdir, name + '.js')
-diff --git a/src/diff2html.js b/src/diff2html.js
-index 21b0119e..64e138f5 100644
---- a/src/diff2html.js
-+++ b/src/diff2html.js
-@@ -7,7 +7,6 @@
+</code></pre></div></div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PID：进程ID，每个正在运行的进程都有一个唯一的PID。
+USER：启动进程的用户。
+PR：进程的优先级。较小的值表示较高的优先级。
+NI：进程的Nice值，表示进程的调度优先级。较高的值表示较低的优先级。
+VIRT：虚拟内存使用量，表示进程使用的虚拟内存总量。
+RES：常驻内存（Resident Set Size），表示进程当前在物理内存中使用的内存量。
+SHR：共享内存，表示进程使用的可共享的内存量。
+S：进程状态，可能的值包括：R（运行中）、S（睡眠中）、D（不可中断的休眠）、Z（僵死）、T（跟踪/停止）等。
+%CPU：CPU 使用率，表示进程在最后一次采样时使用的CPU百分比。
+%MEM：内存使用率，表示进程占用的物理内存百分比。
+TIME+：进程已经运行的累计CPU时间。
+COMMAND：进程的命令行。
+</code></pre></div></div> <h2 id="查看gpu使用情况">查看GPU使用情况</h2> <p>nvidia-smi命令：nvidia-smi（NVIDIA System Management Interface）是一个用于管理NVIDIA GPU的命令行工具。</p> <p>可以使用<code class="language-plaintext highlighter-rouge">watch</code>命令，以每隔一段时间自动刷新显示：watch -n 1 nvidia-smi</p>]]></content><author><name></name></author><category term="Guides"/><category term="Linux"/><summary type="html"><![CDATA[查询进程CPU使用情况: top：实时显示系统的CPU使用情况和进程信息。 启动 top: 在终端中，只需键入 top 并按 Enter 键即可启动 top。 界面分区: top 界面分为多个部分，其中包括： 顶部行：显示系统总体信息，如当前时间、系统运行时间、登录用户数、负载平均值和CPU、内存等的使用情况。 进程列表：按 CPU 使用率降序排列的进程列表，显示了每个进程的 PID、用户、CPU使用率、内存使用率、进程状态等。 底部命令行：用于在 top 中执行一些操作，如更改排序方式、筛选进程等。 控制和交互: 使用键盘上的箭头键可以在进程列表中上下滚动。 q 键用于退出 top。 Space 键用于刷新 top 的显示。 k 键用于终止选定的进程。 f 键用于显示字段列表，允许您选择要显示的列。 u 键用于筛选进程，可以输入用户名以查看特定用户的进程。 1 键用于切换到全局 CPU 使用率视图，显示每个CPU核心的使用情况。 排序进程: P：按CPU使用率排序。 M：按内存使用率排序。 T：按运行时间排序。 N：按PID排序。 显示字段: 按 f 键后，您可以选择要在进程列表中显示的字段。这允许您自定义输出，以满足您的需求。 退出 top: 按 q 键可退出 top。 PID：进程ID，每个正在运行的进程都有一个唯一的PID。 USER：启动进程的用户。 PR：进程的优先级。较小的值表示较高的优先级。 NI：进程的Nice值，表示进程的调度优先级。较高的值表示较低的优先级。 VIRT：虚拟内存使用量，表示进程使用的虚拟内存总量。 RES：常驻内存（Resident Set Size），表示进程当前在物理内存中使用的内存量。 SHR：共享内存，表示进程使用的可共享的内存量。 S：进程状态，可能的值包括：R（运行中）、S（睡眠中）、D（不可中断的休眠）、Z（僵死）、T（跟踪/停止）等。 %CPU：CPU 使用率，表示进程在最后一次采样时使用的CPU百分比。 %MEM：内存使用率，表示进程占用的物理内存百分比。 TIME+：进程已经运行的累计CPU时间。 COMMAND：进程的命令行。 查看GPU使用情况 nvidia-smi命令：nvidia-smi（NVIDIA System Management Interface）是一个用于管理NVIDIA GPU的命令行工具。 可以使用watch命令，以每隔一段时间自动刷新显示：watch -n 1 nvidia-smi]]></summary></entry><entry><title type="html">Python相关</title><link href="https://alshedivat.github.io/al-folio/blog/2024/Python%E7%9B%B8%E5%85%B3/" rel="alternate" type="text/html" title="Python相关"/><published>2024-07-23T00:17:43+00:00</published><updated>2024-07-23T00:17:43+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/Python%E7%9B%B8%E5%85%B3</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/Python%E7%9B%B8%E5%85%B3/"><![CDATA[<h2 id="setuppy">setup.py</h2> <h3 id="简述">简述</h3> <p>这是一个自定义包的安装接口，通过运行</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>py setup.py build
+</code></pre></div></div> <p>进行构建；</p> <p>通过运行：</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>py setup.py <span class="nb">install</span>
+</code></pre></div></div> <p>进行安装。</p> <h3 id="注意事项">注意事项</h3> <p>下面为一个setup.py文件示例</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">setuptools</span> <span class="kn">import</span> <span class="n">setup</span><span class="p">,</span> <span class="n">find_packages</span>
 
- (function() {
-   var diffParser = require('./diff-parser.js').DiffParser;
--  var fileLister = require('./file-list-printer.js').FileListPrinter;
-   var htmlPrinter = require('./html-printer.js').HtmlPrinter;
+<span class="nf">setup</span><span class="p">(</span>
+  <span class="n">name</span><span class="o">=</span><span class="sh">"</span><span class="s">guided-diffusion</span><span class="sh">"</span><span class="p">,</span>
+  <span class="n">py_modules</span><span class="o">=</span><span class="p">[</span><span class="sh">"</span><span class="s">guided_diffusion</span><span class="sh">"</span><span class="p">],</span><span class="c1">#此行指定了模块名称
+</span>  <span class="n">install_requires</span><span class="o">=</span><span class="p">[</span><span class="sh">"</span><span class="s">blobfile&gt;=1.0.5</span><span class="sh">"</span><span class="p">,</span> <span class="sh">"</span><span class="s">torch</span><span class="sh">"</span><span class="p">,</span> <span class="sh">"</span><span class="s">tqdm</span><span class="sh">"</span><span class="p">],</span>
+<span class="p">)</span>
+</code></pre></div></div> <p>其中指定了模块名称为 “guided_diffusion” ，故在同级目录下要求一个 “guided_diffusion.py” 文件，若此文件没被提供也可以由 “guided_diffusion” 文件夹提供模块文件，通常这意味着 “guided_diffusion” 文件夹可能是一个包目录，而不是一个单一的模块文件。在这种情况下，需要将 <code class="language-plaintext highlighter-rouge">py_modules</code> 参数更改为指向包目录，而不是单个模块文件。</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="n">setuptools</span> <span class="kn">import</span> <span class="n">setup</span><span class="p">,</span> <span class="n">find_packages</span>
 
-   function Diff2Html() {
-@@ -43,7 +42,7 @@
-
-     var fileList = '';
-     if (configOrEmpty.showFiles === true) {
--      fileList = fileLister.generateFileList(diffJson, configOrEmpty);
-+      fileList = htmlPrinter.generateFileListSummary(diffJson, configOrEmpty);
-     }
-
-     var diffOutput = '';
-diff --git a/src/file-list-printer.js b/src/file-list-printer.js
-index e408d9b2..1e0a2c61 100644
---- a/src/file-list-printer.js
-+++ b/src/file-list-printer.js
-@@ -8,11 +8,16 @@
- (function() {
-   var printerUtils = require('./printer-utils.js').PrinterUtils;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var baseTemplatesPath = 'file-summary';
-   var iconsBaseTemplatesPath = 'icon';
-
--  function FileListPrinter() {
-+  function FileListPrinter(config) {
-+    this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   FileListPrinter.prototype.generateFileList = function(diffFiles) {
-@@ -38,5 +43,5 @@
-     });
-   };
-
--  module.exports.FileListPrinter = new FileListPrinter();
-+  module.exports.FileListPrinter = FileListPrinter;
- })();
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 9949e5fa..0dda08d7 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -8,18 +8,19 @@
- (function() {
-   var fs = require('fs');
-   var path = require('path');
--
-   var hogan = require('hogan.js');
-
-   var hoganTemplates = require('./templates/diff2html-templates.js');
-
--  var templatesPath = path.resolve(__dirname, 'templates');
-+  var extraTemplates;
-
--  function HoganJsUtils() {
-+  function HoganJsUtils(configuration) {
-+    this.config = configuration || {};
-+    extraTemplates = this.config.templates || {};
-   }
-
--  HoganJsUtils.prototype.render = function(namespace, view, params, configuration) {
--    var template = this.template(namespace, view, configuration);
-+  HoganJsUtils.prototype.render = function(namespace, view, params) {
-+    var template = this.template(namespace, view);
-     if (template) {
-       return template.render(params);
-     }
-@@ -27,17 +28,16 @@
-     return null;
-   };
-
--  HoganJsUtils.prototype.template = function(namespace, view, configuration) {
--    var config = configuration || {};
-+  HoganJsUtils.prototype.template = function(namespace, view) {
-     var templateKey = this._templateKey(namespace, view);
-
--    return this._getTemplate(templateKey, config);
-+    return this._getTemplate(templateKey);
-   };
-
--  HoganJsUtils.prototype._getTemplate = function(templateKey, config) {
-+  HoganJsUtils.prototype._getTemplate = function(templateKey) {
-     var template;
-
--    if (!config.noCache) {
-+    if (!this.config.noCache) {
-       template = this._readFromCache(templateKey);
-     }
-
-@@ -53,6 +53,7 @@
-
-     try {
-       if (fs.readFileSync) {
-+        var templatesPath = path.resolve(__dirname, 'templates');
-         var templatePath = path.join(templatesPath, templateKey);
-         var templateContent = fs.readFileSync(templatePath + '.mustache', 'utf8');
-         template = hogan.compile(templateContent);
-@@ -66,12 +67,16 @@
-   };
-
-   HoganJsUtils.prototype._readFromCache = function(templateKey) {
--    return hoganTemplates[templateKey];
-+    return extraTemplates[templateKey] || hoganTemplates[templateKey];
-   };
-
-   HoganJsUtils.prototype._templateKey = function(namespace, view) {
-     return namespace + '-' + view;
-   };
-
--  module.exports.HoganJsUtils = new HoganJsUtils();
-+  HoganJsUtils.prototype.compile = function(templateStr) {
-+    return hogan.compile(templateStr);
-+  };
-+
-+  module.exports.HoganJsUtils = HoganJsUtils;
- })();
-diff --git a/src/html-printer.js b/src/html-printer.js
-index 585d5b66..13f83047 100644
---- a/src/html-printer.js
-+++ b/src/html-printer.js
-@@ -8,6 +8,7 @@
- (function() {
-   var LineByLinePrinter = require('./line-by-line-printer.js').LineByLinePrinter;
-   var SideBySidePrinter = require('./side-by-side-printer.js').SideBySidePrinter;
-+  var FileListPrinter = require('./file-list-printer.js').FileListPrinter;
-
-   function HtmlPrinter() {
-   }
-@@ -22,5 +23,10 @@
-     return sideBySidePrinter.generateSideBySideJsonHtml(diffFiles);
-   };
-
-+  HtmlPrinter.prototype.generateFileListSummary = function(diffJson, config) {
-+    var fileListPrinter = new FileListPrinter(config);
-+    return fileListPrinter.generateFileList(diffJson);
-+  };
-+
-   module.exports.HtmlPrinter = new HtmlPrinter();
- })();
-diff --git a/src/line-by-line-printer.js b/src/line-by-line-printer.js
-index b07eb53c..d230bedd 100644
---- a/src/line-by-line-printer.js
-+++ b/src/line-by-line-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'line-by-line';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -19,6 +20,9 @@
-
-   function LineByLinePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   LineByLinePrinter.prototype.makeFileDiffHtml = function(file, diffs) {
-diff --git a/src/side-by-side-printer.js b/src/side-by-side-printer.js
-index bbf1dc8d..5e3033b3 100644
---- a/src/side-by-side-printer.js
-+++ b/src/side-by-side-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'side-by-side';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -26,6 +27,9 @@
-
-   function SideBySidePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   SideBySidePrinter.prototype.makeDiffHtml = function(file, diffs) {
-diff --git a/test/file-list-printer-tests.js b/test/file-list-printer-tests.js
-index a502a46f..60ea3208 100644
---- a/test/file-list-printer-tests.js
-+++ b/test/file-list-printer-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
-
--var fileListPrinter = require('../src/file-list-printer.js').FileListPrinter;
-+var fileListPrinter = new (require('../src/file-list-printer.js').FileListPrinter)();
-
- describe('FileListPrinter', function() {
-   describe('generateFileList', function() {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 190bf6f8..3bb754ac 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
-
--var HoganJsUtils = require('../src/hoganjs-utils.js').HoganJsUtils;
-+var HoganJsUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)();
- var diffParser = require('../src/diff-parser.js').DiffParser;
-
- describe('HoganJsUtils', function() {
-@@ -21,16 +21,28 @@ describe('HoganJsUtils', function() {
-       });
-       assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should render view without cache', function() {
-       var result = HoganJsUtils.render('generic', 'empty-diff', {
-         contentClass: 'd2h-code-line',
-         diffParser: diffParser
-       }, {noCache: true});
--      assert.equal(emptyDiffHtml + '\n', result);
-+      assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should return null if template is missing', function() {
--      var result = HoganJsUtils.render('generic', 'missing-template', {}, {noCache: true});
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)({noCache: true});
-+      var result = hoganUtils.render('generic', 'missing-template', {});
-       assert.equal(null, result);
-     });
-+
-+    it('should allow templates to be overridden', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+
-+      var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-diff --git a/test/line-by-line-tests.js b/test/line-by-line-tests.js
-index 1cd92073..8869b3df 100644
---- a/test/line-by-line-tests.js
-+++ b/test/line-by-line-tests.js
-@@ -14,7 +14,7 @@ describe('LineByLinePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
-
-       assert.equal(expected, fileHtml);
-     });
-@@ -422,7 +422,6 @@ describe('LineByLinePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                &lt;/tbody&gt;\n' +
-         '            &lt;/table&gt;\n' +
-         '        &lt;/div&gt;\n' +
-diff --git a/test/side-by-side-printer-tests.js b/test/side-by-side-printer-tests.js
-index 76625f8e..771daaa5 100644
---- a/test/side-by-side-printer-tests.js
-+++ b/test/side-by-side-printer-tests.js
-@@ -14,7 +14,7 @@ describe('SideBySidePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
-
-       assert.equal(expectedRight, fileHtml.right);
-       assert.equal(expectedLeft, fileHtml.left);
-@@ -324,7 +324,6 @@ describe('SideBySidePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                    &lt;/tbody&gt;\n' +
-         '                &lt;/table&gt;\n' +
-         '            &lt;/div&gt;\n' +
-
-From f3cadb96677d0eb82fc2752dc3ffbf35ca9b5bdb Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sat, 15 Oct 2016 13:21:22 +0100
-Subject: [PATCH 2/2] Allow uncompiled templates
-
----
- README.md                 |  3 +++
- src/hoganjs-utils.js      |  7 +++++++
- test/hogan-cache-tests.js | 24 +++++++++++++++++++++++-
- 3 files changed, 33 insertions(+), 1 deletion(-)
-
-diff --git a/README.md b/README.md
-index 132c8a28..46909f25 100644
---- a/README.md
-+++ b/README.md
-@@ -98,6 +98,9 @@ The HTML output accepts a Javascript object with configuration. Possible options
-   - `synchronisedScroll`: scroll both panes in side-by-side mode: `true` or `false`, default is `false`
-   - `matchWordsThreshold`: similarity threshold for word matching, default is 0.25
-   - `matchingMaxComparisons`: perform at most this much comparisons for line matching a block of changes, default is `2500`
-+  - `templates`: object with previously compiled templates to replace parts of the html
-+  - `rawTemplates`: object with raw not compiled templates to replace parts of the html
-+  &gt; For more information regarding the possible templates look into [src/templates](https://github.com/rtfpessoa/diff2html/tree/master/src/templates)
-
- ## Diff2HtmlUI Helper
-
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 0dda08d7..b2e9c275 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -17,6 +17,13 @@
-   function HoganJsUtils(configuration) {
-     this.config = configuration || {};
-     extraTemplates = this.config.templates || {};
-+
-+    var rawTemplates = this.config.rawTemplates || {};
-+    for (var templateName in rawTemplates) {
-+      if (rawTemplates.hasOwnProperty(templateName)) {
-+        if (!extraTemplates[templateName]) extraTemplates[templateName] = this.compile(rawTemplates[templateName]);
-+      }
-+    }
-   }
-
-   HoganJsUtils.prototype.render = function(namespace, view, params) {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 3bb754ac..a34839c0 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -36,7 +36,7 @@ describe('HoganJsUtils', function() {
-       assert.equal(null, result);
-     });
-
--    it('should allow templates to be overridden', function() {
-+    it('should allow templates to be overridden with compiled templates', function() {
-       var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-
-       var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-@@ -44,5 +44,27 @@ describe('HoganJsUtils', function() {
-       var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-       assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-     });
-+
-+    it('should allow templates to be overridden with uncompiled templates', function() {
-+      var emptyDiffTemplate = '&lt;p&gt;&lt;/p&gt;';
-+
-+      var config = {rawTemplates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-+
-+    it('should allow templates to be overridden giving priority to compiled templates', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+      var emptyDiffTemplateUncompiled = '&lt;p&gt;Not used!&lt;/p&gt;';
-+
-+      var config = {
-+        templates: {'generic-empty-diff': emptyDiffTemplate},
-+        rawTemplates: {'generic-empty-diff': emptyDiffTemplateUncompiled}
-+      };
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is how you can display code diffs]]></summary></entry><entry><title type="html">a post with advanced image components</title><link href="https://alshedivat.github.io/al-folio/blog/2024/advanced-images/" rel="alternate" type="text/html" title="a post with advanced image components"/><published>2024-01-27T11:46:00+00:00</published><updated>2024-01-27T11:46:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/advanced-images</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/advanced-images/"><![CDATA[<p>This is an example post with advanced image components.</p> <h2 id="image-slider">Image Slider</h2> <p>This is a simple image slider. It uses the <a href="https://swiperjs.com/">Swiper</a> library. Check the <a href="https://swiperjs.com/demos">examples page</a> for more information of what you can achieve with it.</p> <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true"> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/9.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/9.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/7.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/8.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/8.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/10.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/10.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/12.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/12.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> </swiper-container> <h2 id="image-comparison-slider">Image Comparison Slider</h2> <p>This is a simple image comparison slider. It uses the <a href="https://img-comparison-slider.sneas.io/">img-comparison-slider</a> library. Check the <a href="https://img-comparison-slider.sneas.io/examples.html">examples page</a> for more information of what you can achieve with it.</p> <img-comparison-slider> <figure slot="first"> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/prof_pic.jpg" sizes="95vw"/> <img src="/al-folio/assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <figure slot="second"> <picture> <source class="responsive-img-srcset" srcset="/al-folio/assets/img/prof_pic_color.png" sizes="95vw"/> <img src="/al-folio/assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </img-comparison-slider>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what advanced image components could look like]]></summary></entry><entry><title type="html">a post with vega lite</title><link href="https://alshedivat.github.io/al-folio/blog/2024/vega-lite/" rel="alternate" type="text/html" title="a post with vega lite"/><published>2024-01-27T00:20:00+00:00</published><updated>2024-01-27T00:20:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/vega-lite</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/vega-lite/"><![CDATA[<p>This is an example post with some <a href="https://vega.github.io/vega-lite/">vega lite</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">vega_lite
-</span><span class="sb">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-vega_lite">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}
-</code></pre> <p>This plot supports both light and dark themes.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included vega lite code could look like]]></summary></entry><entry><title type="html">a post with geojson</title><link href="https://alshedivat.github.io/al-folio/blog/2024/geojson-map/" rel="alternate" type="text/html" title="a post with geojson"/><published>2024-01-26T17:57:00+00:00</published><updated>2024-01-26T17:57:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/geojson-map</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/geojson-map/"><![CDATA[<p>This is an example post with some <a href="https://geojson.org/">geojson</a> code. The support is provided thanks to <a href="https://leafletjs.com/">Leaflet</a>. To create your own visualization, go to <a href="https://geojson.io/">geojson.io</a>.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">geojson
-</span><span class="sb">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-geojson">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><category term="maps"/><summary type="html"><![CDATA[this is what included geojson code could look like]]></summary></entry><entry><title type="html">a post with echarts</title><link href="https://alshedivat.github.io/al-folio/blog/2024/echarts/" rel="alternate" type="text/html" title="a post with echarts"/><published>2024-01-26T16:03:00+00:00</published><updated>2024-01-26T16:03:00+00:00</updated><id>https://alshedivat.github.io/al-folio/blog/2024/echarts</id><content type="html" xml:base="https://alshedivat.github.io/al-folio/blog/2024/echarts/"><![CDATA[<p>This is an example post with some <a href="https://echarts.apache.org/">echarts</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">echarts
-</span><span class="sb">{
-  "title": {
-    "text": "ECharts Getting Started Example"
-  },
-  "responsive": true,
-  "tooltip": {},
-  "legend": {
-    "top": "30px",
-    "data": ["sales"]
-  },
-  "xAxis": {
-    "data": ["Shirts", "Cardigans", "Chiffons", "Pants", "Heels", "Socks"]
-  },
-  "yAxis": {},
-  "series": [
-    {
-      "name": "sales",
-      "type": "bar",
-      "data": [5, 20, 36, 10, 10, 20]
-    }
-  ]
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-echarts">{
-  "title": {
-    "text": "ECharts Getting Started Example"
-  },
-  "responsive": true,
-  "tooltip": {},
-  "legend": {
-    "top": "30px",
-    "data": ["sales"]
-  },
-  "xAxis": {
-    "data": ["Shirts", "Cardigans", "Chiffons", "Pants", "Heels", "Socks"]
-  },
-  "yAxis": {},
-  "series": [
-    {
-      "name": "sales",
-      "type": "bar",
-      "data": [5, 20, 36, 10, 10, 20]
-    }
-  ]
-}
-</code></pre> <p>Note that this library offer support for both light and dark themes. You can switch between them using the theme switcher in the top right corner of the page.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included echarts code could look like]]></summary></entry></feed>
+<span class="nf">setup</span><span class="p">(</span>
+    <span class="n">name</span><span class="o">=</span><span class="sh">"</span><span class="s">guided-diffusion</span><span class="sh">"</span><span class="p">,</span>
+    <span class="n">packages</span><span class="o">=</span><span class="nf">find_packages</span><span class="p">(),</span>
+    <span class="n">install_requires</span><span class="o">=</span><span class="p">[</span><span class="sh">"</span><span class="s">blobfile&gt;=1.0.5</span><span class="sh">"</span><span class="p">,</span> <span class="sh">"</span><span class="s">torch</span><span class="sh">"</span><span class="p">,</span> <span class="sh">"</span><span class="s">tqdm</span><span class="sh">"</span><span class="p">],</span>
+<span class="p">)</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="Guides"/><category term="Python"/><summary type="html"><![CDATA[setup.py 简述 这是一个自定义包的安装接口，通过运行 py setup.py build 进行构建； 通过运行： py setup.py install 进行安装。 注意事项 下面为一个setup.py文件示例 from setuptools import setup, find_packages setup( name="guided-diffusion", py_modules=["guided_diffusion"],#此行指定了模块名称 install_requires=["blobfile&gt;=1.0.5", "torch", "tqdm"], ) 其中指定了模块名称为 “guided_diffusion” ，故在同级目录下要求一个 “guided_diffusion.py” 文件，若此文件没被提供也可以由 “guided_diffusion” 文件夹提供模块文件，通常这意味着 “guided_diffusion” 文件夹可能是一个包目录，而不是一个单一的模块文件。在这种情况下，需要将 py_modules 参数更改为指向包目录，而不是单个模块文件。 from setuptools import setup, find_packages setup( name="guided-diffusion", packages=find_packages(), install_requires=["blobfile&gt;=1.0.5", "torch", "tqdm"], )]]></summary></entry></feed>
